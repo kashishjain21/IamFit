@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IamFit</string>
+    <string name="title_me">Me</string>
+    <string name="title_workout">Work Out</string>
+    <string name="title_plan">Plan</string>
+    <string name="title_feed">Feed</string>
+    <string name="title_home">Home</string>
+
+    <string-array name="workout">
+        <item>Home</item>
+        <item>Groceries</item>
+        <item>Vehicle</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

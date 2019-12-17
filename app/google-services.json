@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "999362945247",
+    "firebase_url": "https://iamfit1-487ed.firebaseio.com",
+    "project_id": "iamfit1-487ed",
+    "storage_bucket": "iamfit1-487ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999362945247:android:77451923068646b9",
+        "android_client_info": {
+          "package_name": "abc.a.iamfit1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999362945247-jn7kmej0m5208gceaj5rh8l0pnd8ddcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "abc.a.iamfit1",
+            "certificate_hash": "e77a1bda778a061a691b4dae28de9a105f6b2736"
+          }
+        },
+        {
+          "client_id": "999362945247-3tebt8k0g2s7crdcbu53mhj6080mmj2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqWi5-Hgpq-1ESD6z5JWaI7dGToCtvKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999362945247-3tebt8k0g2s7crdcbu53mhj6080mmj2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
